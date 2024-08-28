@@ -35,7 +35,7 @@ As an example, for k=3, the K-means clustering results in the following customer
 | **0**   | ~ 43      | ~ 50                 | ~ 42.9                 |
 | **1**   | ~ 57      | ~ 102                | ~ 66.9                 |
 | **2**   | ~ 29      | ~ 124                | ~ 40.4                 |
-
+[README.md](README.md)
 **Some insights from the results:**
 - Cluster 0: Middle-aged, moderate income and spending. Ideal for mid-tier products.
 - Cluster 1: Older, high income, high spenders. Best for premium offerings.
